@@ -13,10 +13,10 @@
 
 <body>
   <div class="container">
-    <button type="button" class="btn btn-primary"  id="addImage">追加</button>
     <button type="button" class="btn btn-success" id="wheel">回転</button>
     <button type="button" class="btn btn-info" id="big">拡大</button>
     <button type="button" class="btn btn-warning" id="small">縮小</button>
+    <button type="button" class="btn btn-primary"  id="save">保存</button>
 <div>
   <div id="field">
 

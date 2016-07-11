@@ -1,3 +1,4 @@
+@media only screen and (max-width: 1366px) {
 body{
 overflow-y: scroll;
 width: 1000px;
@@ -9,20 +10,23 @@ position: fixed;
  margin-top: 10px;
  margin-left: 20%;
  margin-bottom: 10%;
- width: 1000px;
+ width: 73%;
  height: 90%;
 }
 #menu{
   position: fixed;
-  margin-top: 10px;
-  margin-left: 5px;
+  width: 38%;
+  margin-top: 1%;
+  margin-left: 1%;
 }
 #menu ul{
+width: 38%;
 margin: 0;
 padding: 0;
 list-style-type: none;
 }
 #menu li{
+width: 38%;
 display: inline;
 padding: 0;
 margin: 0;
@@ -37,7 +41,7 @@ background-color: #fff;
 padding: 3px 10px;
 text-decoration: none;
 color: #333;
-width: 200px;
+width: 80%;
 margin: 1px 0px;
 text-align: left;
 font-size: 14px;
@@ -90,4 +94,5 @@ h2{
 
 .PickUp{
 border:2px solid red;
+}
 }
